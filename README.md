@@ -113,3 +113,6 @@ Backend: python manage.py runserver
 
 Access the platform:
 Open http://localhost:3000 in your browser.
+
+
+![ManasVeda Overview](ss/Picture1.png)
