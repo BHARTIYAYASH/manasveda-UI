@@ -125,8 +125,6 @@ Open http://localhost:3000 in your browser.
 ![Dashboard](ss/Picture9.png)
 ![Dashboard](ss/Picture10.png)
 ![Dashboard](ss/Picture11.png)
-
-#### **11. WhatsApp Integration**
 ![Dashboard](ss/Picture12.png)
 ![Dashboard](ss/Picture13.png)
 ![Dashboard](ss/Picture14.png)
