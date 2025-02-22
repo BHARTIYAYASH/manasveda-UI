@@ -4,6 +4,12 @@ ManasVeda is a revolutionary platform that fuses ancient Ayurvedic and Yogic wis
 
 ---
 
+## Live Demo  
+🚀 **Live Demo:** [Check out the UI here](https://fancy-naiad-24698d.netlify.app/auth)  
+
+⚠️ **Note:** This is a very minimal and basic version of the app, primarily for UI testing. More features and improvements  are coming soon!
+
+
 ## Problem Statement
 
 Escalating stress, anxiety, and burnout plague high-pressure environments—such as coaching institutes, schools, and corporate workplaces—and significantly disrupt daily life. Existing solutions are impersonal and disconnected from cultural roots, while scalability remains a major challenge in monitoring large groups. Without an integrated wellness approach that fuses Ayurveda, Yoga, and modern mental health practices, individuals struggle to achieve balanced well-being.
