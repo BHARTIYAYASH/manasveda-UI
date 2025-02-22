@@ -5,7 +5,7 @@ ManasVeda is a revolutionary platform that fuses ancient Ayurvedic and Yogic wis
 ---
 
 ## Live Demo  
-🚀 **Live Demo:** [Check out the UI here](https://fancy-naiad-24698d.netlify.app/auth)  
+🚀 **Live Demo:** [Check out the UI here] https://fancy-naiad-24698d.netlify.app/auth  
 
 ⚠️ **Note:** This is a very minimal and basic version of the app, primarily for UI testing. More features and improvements  are coming soon!
 
