@@ -16,52 +16,9 @@ Escalating stress, anxiety, and burnout plague high-pressure environments—such
 
 ---
 
-## Our Solution
 
-- **Implicit Behavioral Assessments:**  
-  Capture authentic insights through interactive, scenario-based activities and response tracking.
 
-- **AI-Driven Personalized Dashboard:**  
-  Generate individualized dosha profiles and wellness plans using advanced AI/ML for Ayurvedic & Yogic solutions.
 
-- **Real-Time WhatsApp Integration:**  
-  Deliver daily wellness insights and immediate support via Meta AI Studio and Twilio API.
-
-- **Localized Wellness Support:**  
-  Connect users with nearby Ayurvedic and yoga centers using geolocation mapping.
-
-- **Scalable, Role-Based Monitoring:**  
-  Provide role-specific access for general users, workplace admins, and faculty mentors—with aggregated anonymized metrics for large-scale monitoring.
-
----
-
-## Key Features
-
-- **User Onboarding:**  
-  Seamless registration with role-based access.
-
-- **Dosha & Mental Health Assessments:**  
-  Interactive, gamified evaluations to capture your unique wellness profile.
-
-- **Mind-Dosha Scanner:**  
-  Daily check-ins to monitor mood, energy, and stress.
-
-- **Mantra Vault & Moodify:**  
-  Personalized mantra recommendations and mood-based music therapy.
-
-- **AI Chatbots & NLP:**  
-  Intelligent on-platform and WhatsApp-based chat support.
-
-- **Community Engagement:**  
-  Discussion forums and expert Q&A sessions to share insights and support.
-
-- **Localized Resources:**  
-  Geolocation-based mapping of Ayurvedic and yogic centers.
-
-- **Privacy-First Architecture:**  
-  Robust data encryption and secure user authentication to protect your privacy.
-
----
 
 ## Technology Stack
 
