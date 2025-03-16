@@ -3,11 +3,18 @@
 ManasVeda is a revolutionary platform that fuses ancient Ayurvedic and Yogic wisdom with modern AI/ML-driven mental health practices. Our solution delivers personalized wellness guidance for students, professionals, educators, and organizations in high-pressure environments.
 
 ---
+## PRODUCT STATUS:
+**- 60% of the product has been completed.**
+- Ongoing development continues to add new features.
+- The upcoming phase will focus on rigorous testing, validation, and the integration of level-2 features.
+
 
 ## Live Demo  
-🚀 **Live Demo:** [Check out the UI here] https://fancy-naiad-24698d.netlify.app
+🚀 **Live Demo:** [Check out the UI here] (https://manas-veda.vercel.app/)
 
 ⚠️ **Note:** This is a very minimal and basic version of the app, primarily for UI testing. More features and improvements  are coming soon!
+
+
 
 
 ## Problem Statement
