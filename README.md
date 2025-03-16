@@ -4,7 +4,7 @@ ManasVeda is a revolutionary platform that fuses ancient Ayurvedic and Yogic wis
 
 ---
 ## PRODUCT STATUS:
-**- 60% of the product has been completed.**
+**60% of the product has been completed.**
 - Ongoing development continues to add new features.
 - The upcoming phase will focus on rigorous testing, validation, and the integration of level-2 features.
 
