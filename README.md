@@ -84,20 +84,6 @@ Backend: python manage.py runserver
 Access the platform:
 Open http://localhost:3000 in your browser.
 
-![ManasVeda Overview](ss/Picture1.png)
-![Login Page](ss/Picture2.png)
-![Dashboard](ss/Picture3.png)
-![Dashboard](ss/Picture4.png)
-![Dashboard](ss/Picture5.png)
-![Dashboard](ss/Picture6.png)
-![Dashboard](ss/Picture7.png)
-![Dashboard](ss/Picture8.png)
-![Dashboard](ss/Picture9.png)
-![Dashboard](ss/Picture10.png)
-![Dashboard](ss/Picture11.png)
-![Dashboard](ss/Picture12.png)
-![Dashboard](ss/Picture13.png)
-![Dashboard](ss/Picture14.png)
 
 
 
